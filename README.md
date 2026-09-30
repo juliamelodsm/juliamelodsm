@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Júlia Oliveira
+# 👩🏻‍💻 Júlia Melo
 
 **`Estudante de Desenvolvimento de Software Multiplataforma`**
 
